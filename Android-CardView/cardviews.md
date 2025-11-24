@@ -121,6 +121,8 @@ Your app will display:
 # 🖼 Screenshot
 
 (Add your screenshot here)
-
-<img src="your_screenshot_link_here" width="300">
+<p align="center">
+  <img src="profile1.png" width="600">
+  <img src="profile2.png" width="300">
+</p>
 
