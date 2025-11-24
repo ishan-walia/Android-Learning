@@ -124,4 +124,6 @@ Useful when one main option contains related actions.
 </menu>
 
 ```
-
+<p algin="center">
+<p><img scr="menu.png"</p>
+</p>
