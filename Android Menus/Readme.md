@@ -100,7 +100,7 @@ Useful when one main option contains related actions.
 
 
 ### menu_example.xml:
-```
+```xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <menu 
