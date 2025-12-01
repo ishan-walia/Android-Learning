@@ -25,7 +25,10 @@
 |------------------|--------|
 | Login-Signup |[View](https://github.com/ishanwalia7579/Android-Login-Signup) |
 | Weather-App | [View](https://github.com/ishanwalia7579/Android-Weather-App) |
-| Walia Auto Electricals | [View](https://github.com/ishanwalia7579/Android-Weather-App)
+| Walia Auto Electricals | [View](https://github.com/ishanwalia7579/Android-Weather-App)|
+| Bhakti Sangeet |[View](https://github.com/ishan-walia/Bhakti-Sangeet-App)|
+| Learn Right Now | [View]()
+| Cyber Safe|[View]()
 
 
 ---
