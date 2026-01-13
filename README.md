@@ -98,3 +98,9 @@ All projects are simple, clean, and easy to understand.
 
 > ⚡ *"Practice makes perfect! Keep building, keep learning."*
 
+## ❤️ Support
+
+If you like this repository:
+- ⭐ Star this repo
+- Follow me on GitHub
+- Share with your friends
