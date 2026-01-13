@@ -18,6 +18,17 @@
 </p>
 
 ---
+## 🎯 What You Will Learn
+
+By exploring these projects, you will learn:
+
+- Android app UI design
+- Login & Signup systems
+- API integration
+- RecyclerView, CardView
+- Firebase authentication & database
+- Splash Screen, Navigation
+- Real Play Store level app structure
 
 ## 🗂️ Projects Uploaded
 
